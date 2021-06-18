@@ -17,6 +17,5 @@ This repository contains resource links for both powerbi SDK and Desktop.
 ### To see what and all we can using powerbi from official website
 ```https://playground.powerbi.com/```
 
-
-
-
+### Sample PowerBI SDK Endpoints GIST file
+```https://gist.github.com/tdraganidis/556e862e2d73792b4cfa7e3477d45b8e```
