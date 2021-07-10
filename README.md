@@ -1,6 +1,9 @@
 # powerbi_resources
 This repository contains resource links for both powerbi SDK and Desktop.
 
+### Official website to download power bi desktop
+```https://powerbi.microsoft.com/en-us/downloads/```
+
 ### Official Website for Power BI Rest API
 **Search Term:** "Power BI Rest API" in search engine
 
