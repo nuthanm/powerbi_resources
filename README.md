@@ -9,6 +9,16 @@ This repository contains resource links for both powerbi SDK and Desktop.
 
 ```https://docs.microsoft.com/en-us/rest/api/power-bi/```
 
+### To know what is going on in terms of updates from power BI Family services
+
+```https://powerbi.microsoft.com/en-us/blog/```
+
+### To help others or help by others on any issue in powerbi
+```https://community.powerbi.com/```
+
+### To share your ideas on improvement/feature suggestions to microsoft on powerbi
+```https://ideas.powerbi.com/ideas/```
+
 **Note:** If any change in url please use search term you may receive microsoft updated link.
 
 ### If you want to know how to use powerbi service and their endpoints in .NET or any then check the following website
